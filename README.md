@@ -11,6 +11,6 @@ DroneKit python package is used to control the drone using python api and yolov8
 
 ### Gazebo Demo:
 
-Demo video can be found here: https://www.youtube.com/watch?v=hhfOz2sV8_g
+Demo video can be found here: <a href="https://www.youtube.com/watch?v=hhfOz2sV8_g" target="_blank">Simulation Video</a>
 
 ![Screenshot from 2024-08-22 21-05-34](https://github.com/user-attachments/assets/e4a0dfed-5104-4f85-96d9-e328a4b5f394)
